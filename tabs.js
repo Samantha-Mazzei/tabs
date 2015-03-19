@@ -10,7 +10,8 @@ $(document).ready(function() {
         $(this).addClass('active');
         // Récupérer la position par rapport à ses frères
         var index = $(this).index();
-        
-        //TODO : Afficher le contenu correspondant à l'onglet cliqulé  
+        // Afficher le contenu correspondant à l'onglet cliqulé
+        $('.tabs-contents > *').hide();
+        $('.tabs-contents > *').eq(index).show();
     });
 });

@@ -1,0 +1,53 @@
+body {
+    color: black;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.tabs > div {
+    display: inline-block;
+    padding: 20px;
+    background-color: #555556;
+    color: #f1c40f;
+    border-right: solid #4C4C4C;
+    transition : 0.5s;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tabs > div:first-child {
+    border-radius: 5px 0 0 0;
+} 
+
+.tabs > div:last-child {
+    border-radius: 0 5px 0 0;
+} 
+
+.tabs > div:hover {
+    background-color: #626262;
+}
+
+.tabs > div.active {
+    background-color: #7B7B7B;
+}
+
+.tabs-contents {
+    background-color: #7B7B7B;
+    text-align: justify;
+    color: white;
+    padding: 20px 20px;
+    border-radius: 0 5px 5px 5px;
+}
+
+.tabs {
+    text-align: left;
+}
+
+h2 {
+    color: #f1c40f;
+    font-family:  Calibri;
+    font-size: 22px;
+}
