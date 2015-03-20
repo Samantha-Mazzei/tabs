@@ -1,3 +1,6 @@
+/*
+ * License MIT (c) 2015 Samantha-Mazzei <http://samantha-mazzei.com>
+ */
 $(document).ready(function() {
     // Afficher uniquement le premier contenu
     $('.tabs-contents > *').hide();
