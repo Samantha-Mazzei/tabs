@@ -1,11 +1,17 @@
 <h1>Tabs : plugin jQuery onglets</h1>
 
-<p>Vous trouverez à la racine du dossier du plugin <strong>un fichier tabs.js</strong> ainsi qu'<strong>un dossier Demo</strong>.</p>
+<p>Le fichier javascript à inclure se trouve à la racine.
+Deux versions sont disponibles :
+<ul>
+<li><b>tabs.js :</b> version de développement non-compressée</li>
+<li><b>tabs.min.js :</b> version de production compressée</li>
+</uL>
+</p>
 
 <h2>Installation</h2>
 
 <ul>
-  <li>Copier coller le fichier tabs.js qui se trouve à la racine dans votre dossier.</li>
+  <li>Copier coller le fichier <b>tabs.js</b> dans votre projet.</li>
   <li>Appeler le fichier <strong>tabs.js</strong> : <pre>&lt;script src="votre-chemin/tabs.js">&lt;/script></pre></li>
 </ul>
 
