@@ -3,6 +3,7 @@
  */
 $(document).ready(function() {
     // Afficher uniquement le premier contenu
+    $('.tabs > *:first-child').addClass('active');
     $('.tabs-contents > *').hide();
     $('.tabs-contents > *:first-child').show();
     
