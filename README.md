@@ -33,6 +33,6 @@ Deux versions sont disponibles :
 <p>Dans cet exemple, j'ai choisi de mettre des div à l'interieur du wrapper, mais le plugin fonctionne avec n'importe quel autre type d'élément.</p>
 <h2>Demo</h2>
 
-<p>Le dossier Demo comporte <strong>un fichier HTML</strong></strong> et <strong>un fichier CSS</strong> pour illustrer le plugin.<br><a target="_blank" href="https://jsfiddle.net/samantha_Mazzei_12/v7qz2kyc/3/">>> Voir la Demo</a></p>
+<p>Le dossier Demo comporte <strong>un fichier HTML</strong></strong> et <strong>un fichier CSS</strong> pour illustrer le plugin.<br><a target="_blank" href="https://jsfiddle.net/samantha_Mazzei_12/v7qz2kyc/4/">>> Voir la Demo</a></p>
 
 
